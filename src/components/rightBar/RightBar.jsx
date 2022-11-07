@@ -1,5 +1,5 @@
 import "./rightBar.scss";
 
 export const RightBar = () => {
-  return <div className="home">Home</div>;
+  return <div className="righbar">RightBar</div>;
 };
